@@ -1,0 +1,72 @@
+body
+{
+	overflow-x: hidden;
+}
+.sidebar {
+    /* don't forget to add all the previously mentioned styles here too */
+    background: #7386D5;
+    color: #fff;
+    transition: all 0.3s;
+}
+
+.sidebar-header {
+	height: 100%;
+    padding: 20px;
+    background: #6d7fcc;
+}
+
+.content
+{
+	padding-top: 80px;
+	padding-left: 20px;
+	padding-bottom: 30px;
+	background-color: #1f2329;
+}
+
+.file-upload-div
+{
+	padding-top: 40px;
+	padding-bottom: 40px;
+	text-align: center;
+}
+
+.file-upload-div h4
+{
+	margin-bottom: 30px;
+}
+
+.file-text
+{
+	padding-top: 40px;
+	padding-bottom: 40px;
+	text-align: center;
+}
+
+.card
+{
+	margin-bottom: 20px;
+}
+
+.dropzone {
+    border: 2px dashed #0087F7;
+    border-radius: 5px;
+    background: white;
+}
+
+.how-its-work
+{
+	background-color: #fff;
+	padding-top: 30px;
+	text-align: center;
+}
+
+a
+{
+	color:#fff;
+}
+
+a:hover
+{
+	text-decoration: none;
+	color: #fff;
+}
